@@ -1,0 +1,114 @@
+
+TASK4 OPTIMAL SWITCH ANALYSIS
+
+Query: query1
+Optimizer Switch: 1992-01-07 -> 1992-01-08
+Optimal Switch: 1991-12-14 -> 1991-12-15
+RT(Pi',qi'): 0.011
+RT(Pj',qj'): 0.011
+RT(Pi',qj'): 0.008
+RT(Pj',qi'): 0.007
+
+Query: query1
+Optimizer Switch: 1992-01-27 -> 1992-01-28
+Optimal Switch: 1991-12-29 -> 1991-12-30
+RT(Pi',qi'): 0.006
+RT(Pj',qj'): 0.006
+RT(Pi',qj'): 0.006
+RT(Pj',qi'): 0.006
+
+Query: query1
+Optimizer Switch: 1992-03-29 -> 1992-03-30
+Optimal Switch: 1992-03-30 -> 1992-03-31
+RT(Pi',qi'): 1358.903
+RT(Pj',qj'): 1363.55
+RT(Pi',qj'): 1374.873
+RT(Pj',qi'): 1351.758
+
+Query: query2
+Optimizer Switch: 1992-05-09 -> 1992-05-10
+Optimal Switch: 1992-04-14 -> 1992-04-15
+RT(Pi',qi'): 1657.458
+RT(Pj',qj'): 1670.537
+RT(Pi',qj'): 1665.279
+RT(Pj',qi'): 1663.818
+
+Query: query2
+Optimizer Switch: 1992-05-10 -> 1992-05-11
+Optimal Switch: 1992-04-21 -> 1992-04-22
+RT(Pi',qi'): 1743.423
+RT(Pj',qj'): 1804.742
+RT(Pi',qj'): 1765.824
+RT(Pj',qi'): 2032.282
+
+Query: query2
+Optimizer Switch: 1997-12-19 -> 1997-12-20
+Optimal Switch: 1998-01-09 -> 1998-01-10
+RT(Pi',qi'): 7249.837
+RT(Pj',qj'): 7375.579
+RT(Pi',qj'): 6413.34
+RT(Pj',qi'): 6517.457
+
+Query: query3
+Optimizer Switch: 1992-01-04 -> 1992-01-05
+Optimal Switch: 1992-01-11 -> 1992-01-12
+RT(Pi',qi'): 478.592
+RT(Pj',qj'): 483.558
+RT(Pi',qj'): 486.363
+RT(Pj',qi'): 471.367
+
+Query: query3
+Optimizer Switch: 1992-01-20 -> 1992-01-21
+Optimal Switch: 1991-12-21 -> 1991-12-22
+RT(Pi',qi'): 0.009
+RT(Pj',qj'): 0.009
+RT(Pi',qj'): 0.009
+RT(Pj',qi'): 0.009
+
+Query: query3
+Optimizer Switch: 1992-02-06 -> 1992-02-07
+Optimal Switch: 1992-02-08 -> 1992-02-09
+RT(Pi',qi'): 4218.833
+RT(Pj',qj'): 4219.396
+RT(Pi',qj'): 4238.297
+RT(Pj',qi'): 4211.681
+
+Query: query3
+Optimizer Switch: 1992-05-11 -> 1992-05-12
+Optimal Switch: 1992-05-13 -> 1992-05-14
+RT(Pi',qi'): 4448.179
+RT(Pj',qj'): 4495.041
+RT(Pi',qj'): 4413.604
+RT(Pj',qi'): 4450.419
+
+Query: query3
+Optimizer Switch: 1998-09-02 -> 1998-09-03
+Optimal Switch: 1998-08-29 -> 1998-08-30
+RT(Pi',qi'): 3998.483
+RT(Pj',qj'): 4001.598
+RT(Pi',qj'): 3998.102
+RT(Pj',qi'): 3978.943
+
+Query: query3
+Optimizer Switch: 1998-11-03 -> 1998-11-04
+Optimal Switch: 1998-11-12 -> 1998-11-13
+RT(Pi',qi'): 2819.559
+RT(Pj',qj'): 2823.68
+RT(Pi',qj'): 2800.158
+RT(Pj',qi'): 2834.645
+
+Query: query3
+Optimizer Switch: 1998-11-28 -> 1998-11-29
+Optimal Switch: 1998-11-01 -> 1998-11-02
+RT(Pi',qi'): 2677.931
+RT(Pj',qj'): 2385.282
+RT(Pi',qj'): 2243.011
+RT(Pj',qi'): 2169.663
+
+Query: query3
+Optimizer Switch: 1998-11-30 -> 1998-12-01
+Optimal Switch: 1998-11-23 -> 1998-11-24
+RT(Pi',qi'): 130.959
+RT(Pj',qj'): 122.771
+RT(Pi',qj'): 109.904
+RT(Pj',qi'): 128.644

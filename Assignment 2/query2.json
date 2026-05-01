@@ -1,0 +1,29 @@
+[
+  {
+    "Plan": {
+      "Node Type": "Aggregate",
+      "Strategy": "Plain",
+      "Partial Mode": "Simple",
+      "Parallel Aware": false,
+      "Startup Cost": 38210.55,
+      "Total Cost": 38210.56,
+      "Plan Rows": 1,
+      "Plan Width": 8,
+      "Plans": [
+        {
+          "Node Type": "Index Scan",
+          "Parent Relationship": "Outer",
+          "Parallel Aware": false,
+          "Relation Name": "orders",
+          "Alias": "orders",
+          "Index Name": "idx_orders_orderdate",
+          "Startup Cost": 0.43,
+          "Total Cost": 37000.20,
+          "Plan Rows": 48800,
+          "Plan Width": 4,
+          "Index Cond": "(o_orderdate >= '1995-01-01'::date)"
+        }
+      ]
+    }
+  }
+]
